@@ -1,0 +1,11 @@
+{
+  "name": "St. Bernard",
+  "description": "An adorable St. Bernard pup!",
+  "image": "ipfs://QmUPjADFGEKmfohdTaNcWhp7VGk26h5jXDA7v3VtTnTLcW",
+  "attributes": [
+    {
+      "trait_type": "cuteness",
+      "value": 100
+    }
+  ]
+}
